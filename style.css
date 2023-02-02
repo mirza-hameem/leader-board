@@ -46,3 +46,9 @@ main{
     display: flex;
     align-items: center;
 }
+
+hr{
+    border: 1px solid #D1D1D1;
+    width: 807px;
+    height: 0px;
+}
