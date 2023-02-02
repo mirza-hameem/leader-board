@@ -121,7 +121,3 @@ hr{
     align-items: center;
 }
 
-.course{
-    display: flex;
-    justify-content: space-between;
-}
